@@ -88,32 +88,58 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 6f0aa51c2f81ae349cf018c29606257601df97a9
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="zs" />
+=======
               <option name="myItemId" value="ls" />
+>>>>>>> 6f0aa51c2f81ae349cf018c29606257601df97a9
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="zs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zs" />
+=======
               <option name="myItemId" value="ls" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ls" />
+>>>>>>> 6f0aa51c2f81ae349cf018c29606257601df97a9
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="zs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zs" />
+=======
               <option name="myItemId" value="ls" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ls" />
+>>>>>>> 6f0aa51c2f81ae349cf018c29606257601df97a9
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -137,8 +163,11 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
       <pane id="Scratches" />
       <pane id="Scope" />
+>>>>>>> 6f0aa51c2f81ae349cf018c29606257601df97a9
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,11 +370,20 @@
       <option name="number" value="Default" />
       <updated>1463743152740</updated>
       <workItem from="1463743155095" duration="1000" />
+      <workItem from="1463745197874" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1474000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="17000" />
+=======
+    <option name="totallyTimeSpent" value="20000" />
+>>>>>>> 6f0aa51c2f81ae349cf018c29606257601df97a9
+>>>>>>> f741302526635668c2729d8d392641141e640b28
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
